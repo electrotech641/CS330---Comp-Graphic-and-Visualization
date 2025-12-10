@@ -1,0 +1,9 @@
+﻿  SceneManager.cpp
+C:\Users\elect\Documents\Development\OpenGL\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elect\Documents\Development\OpenGL\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1089,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\elect\Documents\Development\OpenGL\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1089,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\elect\Documents\Development\OpenGL\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1089,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\elect\Documents\Development\OpenGL\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1123,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\elect\Documents\Development\OpenGL\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1123,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\elect\Documents\Development\OpenGL\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1123,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\elect\Documents\Development\OpenGL\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
